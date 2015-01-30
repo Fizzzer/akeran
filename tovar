@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+<meta content="text/html"; charset="utf-8" >
+<title> Zoo-market.ua- Главная</title>
+<link href="css/style.css" type="text/css" rel="stylesheet"> 
+<link href="css/style_v.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+
+<div class="main_1">
+<p>Zoo-market.ua</p>
+<div id="menu">
+		<ul>
+			<li><a href="file:///D:/Zoo-market.ua/index.html#">Главная</a></li>	     		
+			<li id="anim"><a href="file:///D:/Zoo-market.ua/tovar.html">Товары</a></li>			
+			<li><a href="#">Новости</a></li>
+			<li><a href="file:///D:/Zoo-market.ua/about.html#">О нас</a></li>
+			<li><a href="#">Корзина</a></li>
+		</ul>
+	</div>
+</div>
+
+						<div id="pop">
+	<p>Популярные товары:</p>
+
+<p><a href="#" name="1s"><image src="img/1s.jpg"  border="1" width="100" height="100"> </a></p>
+<br>
+<p><a href="#" name="2s"><image src="img/2s.jpg"  border="1" width="100" height="100"> </a></p>
+<br>
+<p><a href="#" name="3s"><image src="img/3s.jpg"  border="1" width="100" height="100"> </a></p>
+<br>
+<p><a href="#" name="4s"><image src="img/4s.jpg"  border="1" width="100" height="100"> </a></p>
+<br>
+<p><a href="#" name="5s"><image src="img/5s.jpg"  border="1" width="100" height="100"> </a></p>
+<br>
+	</div>
+	</div>
+		<div class="area">
+ <div class = "pahom"> <h1 id="spb"> Товары</h1></div>
+        <br>
+       <div id="tov">
+            <pre class ="tax">                 Собаки                           Кошки            </pre>
+				
+		 <pre><a href="#"><img src="img/2.jpg"alt="Error"class="image"></a><a href="#"><img src="img/1.jpg"alt="Error"class="image"></a></pre>
+		
+				
+            <pre class ="tax">                 Грызуны                          Птицы            </pre>
+              
+			   <pre> <a href="#"><img src="img/3.jpg"alt="Error"class="image"></a><a href="#"><img src="img/4.jpg"alt="Error"class="image"></a></pre>
+			
+			  
+            <pre class ="tax">                 Рыбки                            Рептилии             </pre>
+              
+				 <pre> <a href="#"><img src="img/5.jpg"alt="Error"class="image"></a><a href="#"><img src="img/6.jpg"alt="Error"class="image"></a> </pre>
+			
+				
+            <pre class ="tax">                 Насекомые                     Другое </pre>
+                
+				 <pre><a href="#"><img src="img/7.jpg"alt="Error"class="image"></a><a href="#"><img src="img/8.jpg"alt="Error"class="image"></a> </pre>
+				
+    
+</div>
+<div id="autor">
+<a href="http://group.akeran.com.ua/lending/" target="_blank">2015 Created by Akeran Group.</a>
+</div>
+</body>
+<html>
